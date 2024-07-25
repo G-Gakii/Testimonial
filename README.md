@@ -26,11 +26,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![desktop image](https://github.com/G-Gakii/Testimonial/blob/main/images/screenshot/Screenshot%202024-07-25%20at%2016.45.05.png)
+![mobile-image](https://github.com/G-Gakii/Testimonial/blob/main/images/screenshot/Screenshot%202024-07-25%20at%2016.45.58.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: (https://testimonial-xi-umber.vercel.app)
 - Live Site URL: (http://127.0.0.1:5500)
 ## My process
 
